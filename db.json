@@ -1,7 +1,16 @@
 [
   {
     "title": "Club Apparel",
-    "brands": ["R & B", "Skechers", "BBZ"]
+    "brands": [
+      {
+        "title" : "R&B",
+        "image" : "https://www.appareluae.com/wp-content/uploads/2022/05/rnb-logo-l.png"
+      },
+      {
+        "title" : "Skechers",
+        "image" : "https://logo-logos.com/2016/11/Skechers_logo.png"
+      }
+      ]
   },
   {
     "title": "Blue Rewards",
