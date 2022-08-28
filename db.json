@@ -14,6 +14,15 @@
   },
   {
     "title": "Blue Rewards",
-    "brands": ["M & S", "Aster", "Watsons"]
+    "brands": [
+      {
+        "title" : "M & S",
+        "image" : "https://www.appareluae.com/wp-content/uploads/2022/05/rnb-logo-l.png"
+      },
+      {
+        "title" : "Watsons",
+        "image" : "https://logo-logos.com/2016/11/Skechers_logo.png"
+      }
+      ]
   }
 ]
